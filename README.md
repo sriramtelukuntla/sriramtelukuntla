@@ -1,53 +1,75 @@
 # Hi, I'm Sriram Telukuntla 👋
 
-Final Year B.Tech Information Technology student passionate about software development, backend engineering, and AI-powered applications. I enjoy building practical solutions using modern programming technologies and machine learning techniques.
+🎓 Final Year B.Tech Information Technology Student
+💻 Software Developer | Java Backend | AI & Machine Learning Projects
+🚀 Passionate about building practical software solutions and AI-powered applications.
 
-## Technical Skills
+---
 
-Programming Languages:
+## 🚀 Technical Skills
+
+### Programming Languages
+
 Java • Python • JavaScript
 
-Backend Development:
+### Backend Development
+
 Spring Boot • REST APIs • JDBC • MySQL
 
-Frontend Development:
+### Frontend Development
+
 HTML • CSS • JavaScript
 
-AI / Machine Learning:
+### AI / Machine Learning
+
 PyTorch • Computer Vision • YOLOv8 • Transformers • Diffusers
 
-Tools & Technologies:
+### Tools & Technologies
+
 Git • GitHub • OpenCV • NumPy • Pandas • Flask
 
-## Projects
+---
 
-1. AI Interior Design Generator
+## 📌 Projects
+
+### 🧠 AI Interior Design Generator
+
 AI-powered web application that generates interior design visualizations using computer vision and generative AI techniques. The system processes user prompts and room images to produce personalized design concepts.
 
-Technologies Used:
+**Tech Stack**
 Python • Flask • PyTorch • YOLOv8 • Hugging Face Diffusers • Transformers • OpenCV
 
-2. Brain Tumour Detection using CNN and Vision Transformers
-Deep learning model that analyzes MRI brain scans and classifies tumour types using Convolutional Neural Networks and Vision Transformer architectures.
+---
 
-Technologies Used:
-Python • Deep Learning • CNN • Vision Transformers
+### 🧬 MRI-Based Brain Tumour Detection using CNN and Vision Transformers
 
-3. Interactive Portfolio Website
-Responsive personal portfolio website developed to showcase projects, skills, and achievements using modern frontend technologies.
+Deep learning system that analyzes MRI brain scans and classifies tumour types using Convolutional Neural Networks (CNN) and Vision Transformer (ViT) architectures.
 
-Technologies Used:
+**Tech Stack**
+Python • Deep Learning • CNN • Vision Transformers • NumPy • Pandas • OpenCV
+
+---
+
+### 🌐 Interactive Portfolio Website
+
+Responsive personal portfolio website built to showcase projects, skills, and achievements.
+
+**Tech Stack**
 HTML • CSS • JavaScript
 
-## Interests
+---
 
-Software Development
-Backend Engineering
-Artificial Intelligence
-Machine Learning
-Computer Vision
+## 🎯 Interests
 
-## Connect With Me
+• Software Development
+• Backend Engineering
+• Artificial Intelligence
+• Machine Learning
+• Computer Vision
 
-LinkedIn
+---
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn
 https://www.linkedin.com/in/sriram-telukuntla
