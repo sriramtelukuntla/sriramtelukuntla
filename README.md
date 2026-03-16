@@ -22,7 +22,7 @@ HTML • CSS • JavaScript
 
 ### AI / Machine Learning
 
-PyTorch • Computer Vision • YOLOv8 • Transformers • Diffusers
+Computer Vision • Transformers 
 
 ### Tools & Technologies
 
