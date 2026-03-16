@@ -4,19 +4,19 @@ Final Year B.Tech Information Technology student passionate about software devel
 
 ## Technical Skills
 
-Programming Languages
+Programming Languages:
 Java • Python • JavaScript
 
-Backend Development
+Backend Development:
 Spring Boot • REST APIs • JDBC • MySQL
 
-Frontend Development
+Frontend Development:
 HTML • CSS • JavaScript
 
-AI / Machine Learning
+AI / Machine Learning:
 PyTorch • Computer Vision • YOLOv8 • Transformers • Diffusers
 
-Tools & Technologies
+Tools & Technologies:
 Git • GitHub • OpenCV • NumPy • Pandas • Flask
 
 ## Projects
@@ -24,19 +24,19 @@ Git • GitHub • OpenCV • NumPy • Pandas • Flask
 1. AI Interior Design Generator
 AI-powered web application that generates interior design visualizations using computer vision and generative AI techniques. The system processes user prompts and room images to produce personalized design concepts.
 
-Technologies Used
+Technologies Used:
 Python • Flask • PyTorch • YOLOv8 • Hugging Face Diffusers • Transformers • OpenCV
 
 2. Brain Tumour Detection using CNN and Vision Transformers
 Deep learning model that analyzes MRI brain scans and classifies tumour types using Convolutional Neural Networks and Vision Transformer architectures.
 
-Technologies Used
+Technologies Used:
 Python • Deep Learning • CNN • Vision Transformers
 
 3. Interactive Portfolio Website
 Responsive personal portfolio website developed to showcase projects, skills, and achievements using modern frontend technologies.
 
-Technologies Used
+Technologies Used:
 HTML • CSS • JavaScript
 
 ## Interests
