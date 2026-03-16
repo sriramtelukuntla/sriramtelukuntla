@@ -30,7 +30,7 @@ Git • GitHub • OpenCV • NumPy • Pandas • Flask
 
 ## 📌 Projects
 
-### 🧠 AI Interior Design Generator
+### 🧠 Dream Space – AI Powered Interior Designer
 
 AI-powered web application that generates interior design visualizations using computer vision and generative AI techniques. The system processes user prompts and room images to produce personalized design concepts.
 
