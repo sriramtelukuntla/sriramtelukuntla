@@ -21,7 +21,7 @@ Git • GitHub • OpenCV • NumPy • Pandas • Flask
 
 ## Projects
 
-AI Interior Design Generator
+1.AI Interior Design Generator
 AI-powered web application that generates interior design visualizations using computer vision and generative AI techniques. The system processes user prompts and room images to produce personalized design concepts.
 
 Technologies Used
@@ -33,7 +33,7 @@ Deep learning model that analyzes MRI brain scans and classifies tumour types us
 Technologies Used
 Python • Deep Learning • CNN • Vision Transformers
 
-Interactive Portfolio Website
+3.Interactive Portfolio Website
 Responsive personal portfolio website developed to showcase projects, skills, and achievements using modern frontend technologies.
 
 Technologies Used
