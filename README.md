@@ -1,6 +1,6 @@
 # Hi, I'm Sriram Telukuntla 👋
 
-Final Year B.Tech Information Technology student passionate about software development, backend engineering, and AI-powered applications. I enjoy building practical solutions using modern programming technologies and machine learning techniques.
+Final Year B.Tech Information Technology student passionate about software development, backend engineering, and AI powered applications. I enjoy building practical solutions using modern programming technologies and machine learning techniques.
 
 ---
 
